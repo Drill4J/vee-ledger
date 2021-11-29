@@ -1,7 +1,1 @@
-{
-    "components": [],
-    "versions": [],
-    "setups": [],
-    "tests": []
-}
-
+{"components":[{"id":"admin-ui-root-config","name":"admin-ui-root-config"}],"versions":[],"setups":[],"tests":[]}
